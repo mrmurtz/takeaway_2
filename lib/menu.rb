@@ -7,7 +7,7 @@ class Menu
   end
 
   def view_menu
-    @menu = {:burger =>4}
+    @menu = {:burger =>4, :fries => 3, :shake => 2.5}
   end
 
 
